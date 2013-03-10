@@ -10,7 +10,7 @@ gem 'pg'
 end
 
 group :development, :test do
-gem 'sqlite3', :require => 'sqlite3'
+gem 'sqliste3', :require => 'sqlite3'
 end
 
 
